@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Operatorkim
+- 👋 Hi, I’m Kimberly
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML,CSS & Javascript
 - 💞️ I’m looking to collaborate on ...
